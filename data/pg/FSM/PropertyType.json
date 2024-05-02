@@ -3,7 +3,7 @@
     "moduleName": "FSM",
     "PropertyType": [
         {
-            "name": "Residential",
+            "name": "Residential1",
             "code": "RESIDENTIAL",
             "active": true,
             "minAmount": "1000",
